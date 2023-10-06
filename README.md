@@ -25,7 +25,7 @@ Ensure you have Python installed on your machine. This script was developed usin
   ```
 2. Navigate to the project directory:
   ```
-  cd track_mouse_movement/scripts
+  cd track_mouse_movement
   ```
 3. Install the required libraries:
   ```
