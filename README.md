@@ -29,7 +29,7 @@ Ensure you have Python installed on your machine. This script was developed usin
   ```
 3. Install the required libraries:
   ```
-  pip install requirements.txt
+  pip install -r requirements.txt
   ```
 ## Usage
 ### Recording Mouse Movements
