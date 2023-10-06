@@ -20,19 +20,26 @@ Ensure you have Python installed on your machine. This script was developed usin
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your_username/track_mouse_movement.git
+  ```
+  git clone https://github.com/your_username/track_mouse_movement.git
+  ```
 2. Navigate to the project directory:
-cd track_mouse_movement/scripts
+  ```
+  cd track_mouse_movement/scripts
+  ```
 3. Install the required libraries:
-pip install requirements.txt
-
+  ```
+  pip install requirements.txt
+  ```
 ## Usage
 ### Recording Mouse Movements
 1. Run the script:
-python mouse_movement_tracking.py
-2. When prompted, enter the recording duration in seconds.
-3. The script will then start recording the mouse data for the specified duration.
-4. Once the recording is complete, you can find the CSV file in the `output` directory.
+  ```
+  python mouse_movement_tracking.py
+  ```
+3. When prompted, enter the recording duration in seconds.
+4. The script will then start recording the mouse data for the specified duration.
+5. Once the recording is complete, you can find the CSV file in the `output` directory.
 
 ### Visualizing Mouse Movements
 1. After generating the CSV file using the tracking script, run the visualization script:
