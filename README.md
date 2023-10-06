@@ -43,7 +43,9 @@ Ensure you have Python installed on your machine. This script was developed usin
 
 ### Visualizing Mouse Movements
 1. After generating the CSV file using the tracking script, run the visualization script:
-python visualize_movemovement.py --csv_path <path_to_your_csv_file.csv>
+  ```
+  python visualize_movemovement.py --csv_path <path_to_your_csv_file.csv>
+  ```
 - To visualize only the trajectories without mouse click activities:
  ```
  python visualize_movemovement.py --csv_path <path_to_your_csv_file.csv> --include_clicks False
