@@ -1,5 +1,8 @@
 # Mouse Movement Tracker
-This Python script allows users to track their mouse movements over a specified duration and records the positions, mouse clicks, and the title of the active window. The data is then exported to a CSV file.
+This Python script allows users to track their mouse movements over a specified duration and records the positions, mouse clicks, and the title of the active window. The data is then exported to a CSV file and can be visualized using a separate script.
+
+![Mouse Movement Visualization](output/mouse_data_20231006_115516.png)
+
 
 ## Features
 - Track mouse position at millisecond intervals.
