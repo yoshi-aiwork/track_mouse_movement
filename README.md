@@ -8,7 +8,6 @@ This Python script allows users to track their mouse movements over a specified 
 - Export the recorded data to a CSV file named in the format "mouse_data_YYYYMMDD_HHMMSS.csv".
 - Visualize mouse movements, clicks, and active window trajectories in a PNG image.
 
-
 ## Prerequisites
 Ensure you have Python installed on your machine. This script was developed using Python 3.x.
 
@@ -38,10 +37,4 @@ Always be cautious when using mouse and keyboard listeners, as they can capture 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-"""
-
-updated_readme_content
-
-
-
+[MIT] (https://choosealicense.com/licenses/mit/)
