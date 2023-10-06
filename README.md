@@ -46,7 +46,7 @@ Ensure you have Python installed on your machine. This script was developed usin
   ```
   python visualize_movemovement.py --csv_path <path_to_your_csv_file.csv>
   ```
-Note: Use a relative path from scripts folder or the absolute path. If your csv file is in output folder, a sample path is
+- Use a relative path from scripts folder or the absolute path. If your csv file is in output folder, a sample path is
   ```
   python visualize_movemovement.py --csv_path ..\output\mouse_data_20231006_115516.csv --include_movement True --include_active_windows True
   ```
